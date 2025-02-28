@@ -14,7 +14,7 @@ git clone https://github.com/codlindor/ccm.git
 cd ccm
 ```
 ```
-chmod +x start.sh nano config.json ccminer
+chmod +x start.sh config.json ccminer
 ```
 ```
 nano config.json

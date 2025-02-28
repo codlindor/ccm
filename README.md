@@ -20,4 +20,4 @@ chmod +x start.sh config.json ccminer
 nano config.json
 ```
 ```
-start.sh
+~/ccm/start.sh
